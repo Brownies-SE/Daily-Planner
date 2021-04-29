@@ -4,6 +4,8 @@
 
 This project was to test the understanding of HTML, bootstrap, and Jquery. This is a daily planner that changes colors for every business hour for the day. The project also uses local storage to save the users information in the text areas.
 
+![Image of Daily Planner](https://github.com/Brownies-SE/Daily-Planner/blob/main/images/DailyPlanner.png)
+
 # Installation
 
 There is no installation required. You can find it here: https://brownies-se.github.io/Daily-Planner/
